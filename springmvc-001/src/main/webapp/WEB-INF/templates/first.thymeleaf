@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>First Spring MVC</title>
+    </head>
+    <body>
+        <p1>First Spring MVC</p1>
+        <a th:href="@{/haha}">haha</a>
+    </body>
+</html>
